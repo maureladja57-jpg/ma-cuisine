@@ -1,0 +1,64 @@
+
+/* Toute la page */
+body {
+    background-color: #fff8ed;
+    font-family: Arial;
+    margin: 0;
+    text-align: center;
+}
+
+/* Le haut du site */
+header {
+    background-color: #263b2b;
+    color: white;
+    padding: 20px;
+}
+
+/* Le titre */
+header h1 {
+    color: #f5b942;
+}
+
+/* Les liens */
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}
+
+/* Quand on passe la souris */
+nav a:hover {
+    color: orange;
+}
+
+/* Les différentes parties */
+section {
+    padding: 40px;
+}
+
+/* Les titres */
+h2 {
+    color: #263b2b;
+}
+
+/* Le bouton */
+button {
+    background-color: #e58b24;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Quand on passe sur le bouton */
+button:hover {
+    background-color: #263b2b;
+}
+
+/* Le bas du site */
+footer {
+    background-color: #263b2b;
+    color: white;
+    padding: 15px;
+}
